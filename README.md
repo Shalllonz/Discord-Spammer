@@ -11,3 +11,8 @@ If you remove it will send the messages fast but you will get ratelimited
 You can change it to 1 second, 5 seconds and so on**
 
 You can also change range() which is how many messages it will send before it stops.
+
+<p align="center">
+    <img src="https://media.discordapp.net/attachments/1046416664675242036/1097248571000094883/toUzGbG_-_Imgur.png3" style="width: 69%">
+</p>
+
