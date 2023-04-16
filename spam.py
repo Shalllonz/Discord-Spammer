@@ -32,7 +32,7 @@ header = {
 
 # The loop itself
 
-for i in range (1000):
+for i in range (1000000000000000000000000):
     time.sleep(2)
 
     r = requests.post(channel, json=payload, headers = header)
