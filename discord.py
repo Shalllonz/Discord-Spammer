@@ -16,6 +16,7 @@ channel = "https://discord.com/api/v9/channels/1/messages"
 channel = channel[:36] + input(Fore.LIGHTYELLOW_EX + "Channel ID?: ") + "/messages"
 speed = float(input(Fore.LIGHTGREEN_EX + "How fast should the messages send (in seconds): "))
 repeat = int(input(Fore.LIGHTRED_EX + "How many times do you wanna send the message: "))
+ratelimit = int(input(Fore.LIGHTBLUE_EX + "When you get ratelimited, how long do you want to wait for messages to be sent again: "))
 
 os.system('cls')
 
@@ -35,4 +36,4 @@ for i in range (repeat):
         print(Fore.GREEN + "Message sent!")
     else:
         print(Fore.RED + "You are being ratelimited!")
-        time.sleep(7)
+        time.sleep(ratelimit)
