@@ -1,6 +1,6 @@
 # Discord Spammer
 
-# Installion
+# Installation
 
 ## Getting your discord token
 https://www.youtube.com/watch?v=LnBnm_tZlyU
