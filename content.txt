@@ -1,0 +1,2 @@
+You can ping someone by inputting their user id between the <@[insertuserid]> 
+<@556929082512900096>
