@@ -1,5 +1,11 @@
 # Discord Spammer
 
+# Installion
+
+## Getting your discord token
+https://www.youtube.com/watch?v=LnBnm_tZlyU
+
+
 ## How to install
 > 1. Download the .zip
 > 2. Put your token in the token.txt
